@@ -1,10 +1,10 @@
-<h2>Hi! I'm Charissa 👋</h2>
+<h1>Hi! I'm Charissa 👋</h1>
 I am a detail-oriented data integration specialist and analyst with 3 years of experience in <i>drawing insight from databases and forming actionable strategies
 to improve operational efficiency and resolve consumer issues</i>. I not only have a strong foundation in <b>ETL, SQL report generation, and communicating</b> my findings
 in a comprehensive manner to stakeholders at all levels. I am eager to apply my passion for problem-solving to inspire decision-making and foster collaboration
 and mentorship within a dynamic team.
 
-<h3>Work Experiences</h3>
+<h2>Work Experiences</h2>
 <b>Data Integration Specialist</b> @ <i>DoorDash</i> 			   				         July 2023 – Present
 Extract, transform, and load (ETL) clients’ inventory and catalog data onto DoorDash, managing 5 clients monthly, so customers can view and order from the menu accurately.
 Create Amazon Web Services (AWS) SFTP folders via GitHub, allowing clients to drop files for extraction.
