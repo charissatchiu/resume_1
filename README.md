@@ -1,6 +1,6 @@
-<title>
-  Hi! I'm Charissa 👋
-</title>
+<header>
+  <b>Hi! I'm Charissa 👋</b>
+</header>
 <br>
 I am a detail-oriented data integration specialist and analyst with 3 years of experience in <i>drawing insight from databases and forming actionable strategies
 to improve operational efficiency and resolve consumer issues</i>. I not only have a strong foundation in <b>ETL, SQL report generation, and communicating</b> my findings
